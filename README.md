@@ -49,7 +49,7 @@ There's an issue with the graphics on mobile.
 <br>
 
 # link
-if you wanna try [jqssun github release](https://github.com/jqssun/android-ci/releases/tag/lineage-22.2)
+if you wanna try [jqssun github release](https://github.com/jqssun/android-ci/releases/tag/lineage-22.2)<br>
 Youtube [showcase](https://www.youtube.com/watch?v=0CWcrkZ6nPc)<br>
 Wiki [LineageOS wiki](https://wiki.lineageos.org/utm-vm-on-apple-silicon-mac)<br/>
 Grab UTM apps [UTMapp](https://getutm.app/)
