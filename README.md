@@ -14,6 +14,7 @@ i just try to install this OS using UTM HV mode on iphone 14 pm 16.3.1 with hype
 - Any Intel Mac
 - iPhone 14 Pro/ 14 Pro Max running iOS 16.0-16.3.1
 - Any M1 or M2 iPad running iPadOS 14.5-16.3.1
+- On IOS/iPadOS graphic accel (GPU SUPPORTED DEVICE GL PCI) not work because utm cant handle graphic memory leak
 Any other device will likely never be able to run it.
 If you don't own one of these then please stop trying right here
 
