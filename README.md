@@ -30,6 +30,13 @@ If you don't own one of these then please stop trying right here
 8. perform android's factory reset
 9. flash the android OTA zip
 10. done
+# download from jqssun release page
+1. download the release zip
+2. extract it and import into UTM
+3. setup your ram, graphics mode and other you need
+4. boot it
+5. enjoy
+
 
 # NOTES
 Running android on it then would probably be rather funny
