@@ -7,7 +7,11 @@
 ![](https://github.com/cupecups/LineageOS-UTM-HV/blob/655e910cc706b994df101a96ac36815746fedad0/img/showcase.gif)
 
 
-<br>
+<br><br><br>
+[![Watch the video](https://img.youtube.com/vi/0CWcrkZ6nPc/maxresdefault.jpg)](https://youtu.be/0CWcrkZ6nPc)
+<br><br><br>
+
+### [Watch this sample on YouTube](https://youtu.be/0CWcrkZ6nPc)
 i just try to install this OS using UTM HV mode on iphone 14 pm 16.3.1 with hypervisor work on this ios version
 # Devices that are able to run this:
 - Any Apple silicon Mac
