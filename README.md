@@ -15,9 +15,10 @@ i just try to install this OS using UTM HV mode on iphone 14 pm 16.3.1 with hype
 Any other device will likely never be able to run it.
 If you don't own one of these then please stop trying right here
 
+
+# HOW TO?
 ![](https://github.com/cupecups/LineageOS-UTM-HV/blob/b4056d7a878f502a4e189d0d8a66aa682fb4c3a5/img/setup.gif)
 ![](https://github.com/cupecups/LineageOS-UTM-HV/blob/655e910cc706b994df101a96ac36815746fedad0/img/showcase.gif)
-# HOW TO?
 # create vm with, at least 2GB RAM, 
 1. first virtio disk = 13GB
 2. second virtio disk = at least 2GB
