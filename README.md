@@ -61,7 +61,11 @@ There's an issue with the graphics on mobile.
 ![alt text](https://github.com/cupecups/LineageOS-UTM-HV/blob/3c80c0625adc42fd255aa8b86954a99d630e081d/img/ss.png)
 <br>
 
-# link
-Youtube [showcase](https://www.youtube.com/watch?v=0CWcrkZ6nPc)<br>
-Wiki [LineageOS wiki](https://wiki.lineageos.org/utm-vm-on-apple-silicon-mac)<br/>
-Grab UTM apps [UTMapp](https://getutm.app/)
+---
+
+# Special thanks 
+[me-cafebabe](https://github.com/me-cafebabe)<br>
+[UTM-Teams](https://getutm.app/)<br>
+[LineageOS source](https://wiki.lineageos.org/utm-vm-on-apple-silicon-mac)<br>
+[jqssun](https://github.com/jqssun)<br>
+
