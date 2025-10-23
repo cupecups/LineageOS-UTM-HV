@@ -5,6 +5,8 @@
 ![alt text](https://github.com/cupecups/LineageOS-UTM-HV/blob/0e7fab19c7dacaa80c9fd7d0c84f07bd5255ac12/img/16nothing.png)
 <br><br>
 
+---
+
 i just try to install this OS using UTM HV mode on iphone 14 pm 16.3.1 with hypervisor work on this ios version
 # Devices that are able to run this:
 - Any Apple silicon Mac
@@ -15,6 +17,7 @@ i just try to install this OS using UTM HV mode on iphone 14 pm 16.3.1 with hype
 Any other device will likely never be able to run it.
 If you don't own one of these then please stop trying right here
 
+---
 
 # HOW TO?
 ![](https://github.com/cupecups/LineageOS-UTM-HV/blob/b4056d7a878f502a4e189d0d8a66aa682fb4c3a5/img/setup.gif)
@@ -37,6 +40,7 @@ If you don't own one of these then please stop trying right here
 4. boot it
 5. enjoy
 
+---
 
 # NOTES
 Running android on it then would probably be rather funny
@@ -49,6 +53,8 @@ There's an issue with the graphics on mobile.
 - Using ANGLE (OpenGL) rendering works but there's a memory leak and as a result the vm will crash within a minute each time 
 - Using ANGLE (Metal) causes an issue with something in the renderer and just has no display output
 - 3D accelerator/GPU supoorted cause utm crash, that's the known issues which we have no solution yet...
+
+---
 
 # SCREENSHOOT
 
