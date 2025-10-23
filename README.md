@@ -33,7 +33,7 @@ If you don't own one of these then please stop trying right here
 8. perform android's factory reset
 9. flash the android OTA zip
 10. done
-# download from jqssun release page
+# download from [jqssun](https://github.com/jqssun/android-ci/releases/tag/lineage-22.2) release page
 1. download the release zip
 2. extract it and import into UTM
 3. setup your ram, graphics mode and other you need
@@ -62,7 +62,6 @@ There's an issue with the graphics on mobile.
 <br>
 
 # link
-if you wanna try [jqssun github release](https://github.com/jqssun/android-ci/releases/tag/lineage-22.2)<br>
 Youtube [showcase](https://www.youtube.com/watch?v=0CWcrkZ6nPc)<br>
 Wiki [LineageOS wiki](https://wiki.lineageos.org/utm-vm-on-apple-silicon-mac)<br/>
 Grab UTM apps [UTMapp](https://getutm.app/)
