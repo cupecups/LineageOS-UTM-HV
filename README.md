@@ -56,10 +56,15 @@ There's an issue with the graphics on mobile.
 - Using ANGLE (Metal) causes an issue with something in the renderer and just has no display output
 - 3D accelerator/GPU supoorted cause utm crash, that's the known issues which we have no solution yet...
 
-UPDATE UTM 4.7.5
+# UPDATE UTM 4.7.X
 - ANGLE: Fixed a memory leak issue in the GLES backend (#7546) (thanks @cnnn)
 - ANGLE: Fixed a memory leak issue in the Metal backend (#4958)
+
 ---
+
+# EXTRA
+- install [magisk](https://topjohnwu.github.io/Magisk/install.html)
+- install [GAPSS](https://mindthegapps.com/)
 
 # SCREENSHOOT
 
