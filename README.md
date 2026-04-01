@@ -1,4 +1,4 @@
-# LINEAGEOS 22.1 UTM/QEMU ARM
+# LINEAGEOS or ANDROID UTM/QEMU ARM
 ## this project image maintener by 0xCAFEBABE as lineageOS builder
 [![Watch the video](https://img.youtube.com/vi/0CWcrkZ6nPc/maxresdefault.jpg)](https://youtu.be/0CWcrkZ6nPc)
 ### [Watch this sample on YouTube 1](https://youtu.be/KPJBhrH_Fio?si=7_0i1Xp2NYSXSj1U)
