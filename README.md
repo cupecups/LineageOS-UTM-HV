@@ -69,11 +69,6 @@ There's an issue with the graphics on mobile.
 - install [magisk](https://topjohnwu.github.io/Magisk/install.html)
 - install [GAPSS](https://mindthegapps.com/)
 
-# SCREENSHOOT
-
-![alt text](https://github.com/cupecups/LineageOS-UTM-HV/blob/3c80c0625adc42fd255aa8b86954a99d630e081d/img/ss.png)
-<br>
-
 ---
 
 # Special thanks 
