@@ -6,6 +6,7 @@
 
 <br>
 ### ALUMINIUM OS 17
+
 ![alt text](https://github.com/cupecups/LineageOS-UTM-HV/blob/abcbd2d736fc42878dd45985d23c2d99fc15b787/img/aluminiumOS.jpg)
 <br>
 
