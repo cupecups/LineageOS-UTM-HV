@@ -5,9 +5,11 @@
 ### [Watch this sample on YouTube 2](https://youtu.be/0CWcrkZ6nPc)
 
 <br>
+
 ### ALUMINIUM OS 17
 
 ![alt text](https://github.com/cupecups/LineageOS-UTM-HV/blob/abcbd2d736fc42878dd45985d23c2d99fc15b787/img/aluminiumOS.jpg)
+
 <br>
 
 ![alt text](https://github.com/cupecups/LineageOS-UTM-HV/blob/0e7fab19c7dacaa80c9fd7d0c84f07bd5255ac12/img/16nothing.png)
