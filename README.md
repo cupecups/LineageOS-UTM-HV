@@ -12,8 +12,16 @@
 
 <br>
 
+### NOTHING OS
+
 ![alt text](https://github.com/cupecups/LineageOS-UTM-HV/blob/0e7fab19c7dacaa80c9fd7d0c84f07bd5255ac12/img/16nothing.png)
+
+<br>
+
+### LINEAGE OS
+
 ![alt text](https://github.com/cupecups/LineageOS-UTM-HV/blob/8dbe84fd0356184f8ca13d0261b7ac3b3f6578f1/img/LN23-2.png)
+
 <br><br>
 
 
