@@ -1,5 +1,5 @@
-# LINEAGEOS or ANDROID UTM/QEMU ARM
-## this project image maintener by 0xCAFEBABE as lineageOS builder
+# LINEAGEOS or GSI ANDROID WITH UTM HV
+## this project start from great work 0xCAFEBABE and jqssun to make android or any GSI android rom work with UTM
 [![Watch the video](https://img.youtube.com/vi/0CWcrkZ6nPc/maxresdefault.jpg)](https://youtu.be/0CWcrkZ6nPc)
 ### [Watch this sample on YouTube 1](https://youtu.be/KPJBhrH_Fio?si=7_0i1Xp2NYSXSj1U)
 ### [Watch this sample on YouTube 2](https://youtu.be/0CWcrkZ6nPc)
