@@ -1,4 +1,4 @@
-##this will be legacy.
+## this will be legacy.
 you can run android on your iphone or ipad with another way
 1. [husk](https://github.com/Leviidev/Husk)<br>
 2. [andrium](https://github.com/imxieyi/Kernarium)<br>
