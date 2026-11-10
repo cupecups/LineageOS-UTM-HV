@@ -1,3 +1,8 @@
+##this will be legacy.
+you can run android on your iphone or ipad with another way
+1. [husk](https://github.com/Leviidev/Husk)<br>
+2. [andrium](https://github.com/imxieyi/Kernarium)<br>
+
 # LINEAGEOS or GSI ANDROID WITH UTM HV
 ## this project start from great work 0xCAFEBABE and jqssun to make android or any GSI android rom work with UTM
 [![Watch the video](https://img.youtube.com/vi/0CWcrkZ6nPc/maxresdefault.jpg)](https://youtu.be/0CWcrkZ6nPc)
